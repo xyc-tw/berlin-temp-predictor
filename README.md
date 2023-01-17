@@ -29,7 +29,7 @@ Facebook Prophet model
 <!-- BUILD WITH -->
 ## Built With
 
-This project is built with ***Python*** with ***statsmodels***, ***pmdarima***, and ***Facebook Prophet***.
+This project is built with ***Python***, ***statsmodels***, ***pmdarima***, and ***Facebook Prophet***.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
