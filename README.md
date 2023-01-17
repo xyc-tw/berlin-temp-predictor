@@ -13,10 +13,16 @@
 ## About The Project
 
 Comparing AR-model, ARIMA, and Prophet in dealing with the time series problem.
+
+Autoregression model
 ![ar][ar]
+
+ARIMA model, considering the training time, the ARIMA model is fed with the monthly mean.
 ![arima][arima]
+
+Facebook Prophet model
 ![prophet][prophet]
-Considering the training time, the ARIMA model is fed with the monthly mean. 
+ 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
